@@ -35,4 +35,4 @@ Tecnologías
 
 Autor
 
-Estudiante de Métodos Numéricos.
+Yajahira Germayoni Aguilar Hernandez
